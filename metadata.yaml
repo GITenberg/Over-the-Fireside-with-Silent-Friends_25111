@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '28413'
     url: http://www.gutenberg.org/2009/agents/28413
 description: A number of short essays on everyday topics.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25111#Over-the-Fireside-with-Silent-Friends
 gutenberg_issued: '2008-04-20'
 gutenberg_type: Text
 identifiers:
